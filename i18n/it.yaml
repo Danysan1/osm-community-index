@@ -416,7 +416,7 @@ it:
   it-discourse:
     description: Il forum dove poter discutere di OpenStreetMap in Italia
   it-emilia-romagna-telegram:
-    description: 'Tutti sono benvenuti! Puoi entrare nella chat con questo link: {signupUrl}'
+    description: 'Tutti sono benvenuti! Puoi entrare nella chat con questo link: {url}'
   ko-facebook:
     description: Mapper e utenti di OpenStreetMap in Corea
   ko-github:
